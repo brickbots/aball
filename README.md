@@ -1,5 +1,6 @@
 # aball
 A Ball - Buttonless trackball for all
+
 ---
 ## A trackball with no buttons?
 I like keyboards, and my workflow is defintely *keyboard first*.  Tiling window manager, VIM, bash... pretty 
@@ -8,7 +9,7 @@ So this is my stab at a trackball for keyboard first workflows.
 
 Why not a mouse?  Well, space... trackballs take up less space.  Which got me thinking, what is the minimum 
 footprint for a usable trackball?  I managed to get it down to 60x80mm... you could go even smaller, but I 
-wanted some sort of case on it and this particular size sits nicely next to my daily driver, the [Kyria] (https://blog.splitkb.com/blog/introducing-the-kyria).
+wanted some sort of case on it and this particular size sits nicely next to my daily driver, the [Kyria](https://blog.splitkb.com/blog/introducing-the-kyria).
 
 IMAGE HERE OF SETUP
 
@@ -22,6 +23,7 @@ mapped buttons on the home row to:
 - B: Scroll Down
 
 Scroll up and down are not really needed, but they are pretty handy, even when not using the trackball.  
+
 ---
 
 ## Where can I get one of these?
