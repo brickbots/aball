@@ -1,7 +1,7 @@
 # aball
 aball - A Buttonless trackball for all
 
-![aball image](./pics/finished_single.jpg "The aball")
+![aball image](./photos/finished_single.jpg "The aball")
 
 ## A trackball with no buttons?
 I like keyboards, and my workflow is defintely *keyboard first*.  Tiling window manager, VIM, bash... pretty 
@@ -12,7 +12,7 @@ Why not a mouse?  Well, space... trackballs take up less space.  Which got me th
 footprint for a usable trackball?  I managed to get it down to 60x80mm... you could go even smaller, but I 
 wanted some sort of case on it and this particular size sits nicely next to my daily driver, the [Kyria](https://blog.splitkb.com/blog/introducing-the-kyria).
 
-!(./pics/kyria_wide.jpg)
+![aball beside Kyria](./photos/kyria_wide.jpg "aball with Kyria")
 
 In the quest to reduce size, I did away with any buttons.  I have plenty of buttons on my keyboard, and my 
 left hand is capable of pressing them when I'm using the aball with my right hand.  Via a layer, I've 
