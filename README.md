@@ -1,7 +1,7 @@
 # aball
 aball - A Buttonless trackball for all
 
-!(./pics/finished_single.jpg)
+![aball image](./pics/finished_single.jpg "The aball")
 
 ## A trackball with no buttons?
 I like keyboards, and my workflow is defintely *keyboard first*.  Tiling window manager, VIM, bash... pretty 
