@@ -36,11 +36,18 @@ potentially serve as a jumping off point for other designs.  So I kept these thi
 
 The design is pretty stripped back, here is a shot of the guts which are self supporting and can be used just as is:
 
-IMAGE OF GUTS HERE
+![aball minimal implementation](./photos/aball_min.jpeg "aball minimal implementation")
 
 The ball sits on a 3d printed frame which holds three roller bearings, and a microcontroller.  The ball moves on top of an optical mouse sensor 
 which is connected to the microcontroller. To make the whole thing as close as possible to the desktop, the mouse sensor sticks out
 of the bottom of the case, but only a bit and is off the desk due to the rubber feet on the bottom.
+
+### Quick note on roller bearings
+
+If you have not used a trackball with roller bearings before, I think you are in for a treat.  It takes a day or two of good use to 
+break them in, but I find them *much* smoother and more enjoyable than static dot type bearings.  You can go cheap here, spending 
+less than a dollar for all three of them and they will still be pretty good.  However, a nice set of high quality bearings for RC 
+use are not that much more expensive and the quality is definitely higher.
 
 The microcontroller runs firmware based on QMK (Quantum Mechanical Keyboard).  QMK is a fantastic
 open source project for keyboard firmware, but it also includes pointing device support.  You can find
@@ -51,9 +58,9 @@ The minimal implementation is pretty much what you see above and it can be put t
 there you can either 3d print an enclosure, or use the files here to get some acrylic and metal laser cut for a different look.  I hope that other folks
 will adapt these guts and come up with new and clever case options.  Maybe even add buttons on-board :-)
 
-## Where can I get one of these?
+## How can I get one of these?
 
-This repo contains design files, build guides, and a parts list so you can build your own **aball** if you
+You can build one yourself!  This repo contains design files, build guides, and a parts list so you can build your own **aball** if you
 so choose.  If you do, please drop me a note at rich@brickbots.com.  All information here is provided as-is
 for your personal use and is released under a specific Creative Common license which lets you use them for 
 non-commercial use.  Please see the included LICENSE file for details.
