@@ -49,6 +49,8 @@ break them in, but I find them *much* smoother and more enjoyable than static do
 less than a dollar for all three of them and they will still be pretty good.  However, a nice set of high quality bearings for RC 
 use are not that much more expensive and the quality is definitely higher.
 
+### Firmware
+
 The microcontroller runs firmware based on QMK (Quantum Mechanical Keyboard).  QMK is a fantastic
 open source project for keyboard firmware, but it also includes pointing device support.  You can find
 the firmware source for the aball here: 
