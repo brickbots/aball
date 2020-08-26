@@ -7,5 +7,5 @@
 * [Printed Case](./docs/bg_case_printed.md)
 * [Parts list (BOM)](./docs/bom.md)
 
-![aball image](./photos/finished_single.jpeg "The aball")
+![aball image](../photos/finished_single.jpeg "The aball")
 
