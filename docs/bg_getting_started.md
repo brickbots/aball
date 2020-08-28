@@ -10,7 +10,7 @@
 
 To keep oriented during througout this guide, here is a photo of everything put together without the case.
 
-![aball minimal implementation](./photos/aball_min.jpeg "aball minimal implementation")
+![aball minimal implementation](../photos/aball_min.jpeg "aball minimal implementation")
 
 ## Collect your parts
 
