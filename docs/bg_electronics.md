@@ -45,10 +45,10 @@ Here is a photo after all the wires attached to the MCU, with a ruler to show ho
 
 ![Wire Length](../photos/build_guide/aball_build_guide_12.jpeg "Wires for length")
 
-Make sure you have the sensor oriented correctly, and follow the wiring diagram to finish this step up.
+Make sure you have the sensor oriented correctly, and follow the wiring diagram to connect the wires to the MCU and finish this step up.
 
 ### Testing
 
-This is a great time to the MCU back into your computer.  You can place the lens on top of the sensor unit and just run your finger over the sensor.  You should see the cursor on screen move.  If so, you are all set to go with the mechanical assembly!
+This is a great time to plug the MCU back into your computer.  You can place the lens on top of the sensor unit and just run your finger over the sensor.  You should see the cursor on screen move.  If so, you are all set to go with the mechanical assembly!
 
 * [Structural Assembly](../docs/bg_structure.md)
