@@ -62,3 +62,23 @@ they are not soooo long that they rub on the ball.  Use the nuts to secure every
 three bolts that hold the frame and the two bolts that hold the sensor.
 
 ![Bolt it together](../photos/build_guide/aball_build_guide_14.jpeg "Bolt it together")
+
+### Prep for the case
+
+No matter which case you use, it's supported/aligned with seven 10mm standoffs.  You can either use the
+male/female ones pictured below or you can use the double female ones either work.  You'll want to secure
+these to the bottom plate in the provided holes.
+
+![Standoff Setup](../photos/build_guide/aball_build_guide_15.jpeg "Standoffs")
+
+Here is a view of the underside with the standoffs secured with nuts.
+
+![Secured with nuts](../photos/build_guide/aball_build_guide_17.jpeg "Secured with nuts")
+
+Now the structure is done and the case is ready to be installed. 
+
+![Ready for case](../photos/build_guide/aball_build_guide_16.jpeg "Ready for case!")
+
+There are two case options available:
+* [Acrylic Case](../docs/bg_case_acrylic.md)
+* [Printed Case](../docs/bg_case_printed.md)
