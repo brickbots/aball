@@ -37,6 +37,6 @@ secure the layers.
 
 ![All Built](../photos/build_guide/aball_build_guide_24.jpeg "All done")
 
-There ya go!  Make sure you seat the lense properly, drop in the ball and plug it in.  Feel free to 
+There ya go!  Make sure you seat the lens properly, drop in the ball and plug it in.  Feel free to 
 contact me with any questions on building, flashing or aquiring parts.  If you do build on of these
 I'd love to see it.
