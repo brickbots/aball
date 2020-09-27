@@ -54,7 +54,7 @@ use are not that much more expensive and the quality is definitely higher.
 The microcontroller runs firmware based on QMK (Quantum Mechanical Keyboard).  QMK is a fantastic
 open source project for keyboard firmware, but it also includes pointing device support.  You can find
 the firmware source for the aball here: 
-[https://github.com/qmk/qmk_firmware/tree/master/keyboards/handwired/aball](https://github.com/qmk/qmk_firmware/tree/master/keyboards/handwired/aball)
+[https://github.com/brickbots/qmk_firmware/tree/aball/keyboards/handwired/aball](https://github.com/qmk/qmk_firmware/tree/master/keyboards/handwired/aball)
 
 The minimal implementation is pretty much what you see above and it can be put together for well under $40 if you already have a 3d printer.  From 
 there you can either 3d print an enclosure, or use the files here to get some acrylic and metal laser cut for a different look.  I hope that other folks
