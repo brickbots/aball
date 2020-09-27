@@ -57,8 +57,8 @@ need to file these slightly.  You can see above how I routed the wires, but it d
 
 ### Secure the Frame / Sensor
 
-Both the frame and the sensor mount on bolts inserted from the bottom.  The length is not overly critical here, just as long
-as they are not soooo long that they rub on the ball.  Use the nuts to secure everything togther.  The photo below shows the 
+Both the frame and the sensor mount on bolts inserted from the bottom.  The length is not overly critical here, just make sure
+they are not soooo long that they rub on the ball.  Use the nuts to secure everything together.  The photo below shows the 
 three bolts that hold the frame and the two bolts that hold the sensor.
 
 ![Bolt it together](../photos/build_guide/aball_build_guide_14.jpeg "Bolt it together")
