@@ -15,9 +15,8 @@ To keep oriented during througout this guide, here is a photo of everything put 
 ### Parts List
 
 For the acrylic version of the case, you'll need seven layers in total.  You can find all the .dxf
-files in the /case/laser_cut_stacked directory.  I use Ponoko, and thes files are already scaled 
+files in the /case/laser_cut_stacked directory.  I use Ponoko, and these files are already scaled 
 and ready to go.  
-
 
 If you use elite-c MCU's there is a reset button on the top of the board.  These cases have an 
 access hole to reach this button from the side.  That's the reason for the two different 
