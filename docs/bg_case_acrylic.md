@@ -14,7 +14,10 @@ To keep oriented during througout this guide, here is a photo of everything put 
 
 ### Parts List
 
-For the acrylic version of the case, you'll need seven layers in total.  You can find all the .dxf
+For the acrylic version of the case, you'll need seven 3mm layers in total, not including the base piece
+which can either be 3d printed using the STL in the /case/printed directory, or laser cut from 1.5mm 
+metal or acrylic.
+You can find all the .dxf
 files in the /case/laser_cut_stacked directory.  I use Ponoko, and these files are already scaled 
 and ready to go.  
 

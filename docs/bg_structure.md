@@ -38,7 +38,7 @@ so don't be too concerned if they are a bit scratchy, just check that they roll 
 ### Prepare the base
 
 For the base, you can either 3d print the file bottom.stl in the case/printed folder or get the bottom laser 
-cut from metal using the bottom.dxf in either of the case/laser_cut folders.  Since the sensor sticks out of
+cut from metal using the bottom.dxf in either of the case/laser_cut folders.  It should be about 1.5mm thick either way.  Since the sensor sticks out of
 bottom of the case slightly to reduce to overall height, you'll need to put feet on it before continuing assmbly.
 
 ![Feet Placement](../photos/build_guide/aball_build_guide_6.jpeg "Feet placement")
