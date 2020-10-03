@@ -33,6 +33,7 @@ potentially serve as a jumping off point for other designs.  So I kept these thi
 * Low cost
 * Simple to assemble
 * Majority 3d printed if desired
+* Supports 38 and 34 mm balls
 
 The design is pretty stripped back, here is a shot of the guts which are self supporting and can be used just as is:
 

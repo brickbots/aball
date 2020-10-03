@@ -14,7 +14,7 @@ Quantity|Item|URL
 3|Rubber Feet|
 1|Pro Micro Compatible - Elite-C Recommended|
 1|Jack Enterprises - ADNS-9800 Laser Motion Sensor Breakout|https://www.tindie.com/products/jkicklighter/adns-9800-laser-motion-sensor/
-1|38mm Ball (1.5" Billiard Ball)|https://www.amazon.com/gp/product/B00CEQY0J0
+1|Ball either 38mm or 34mm|https://www.amazon.com/gp/product/B00CEQY0J0 https://www.amazon.com/gp/product/B07BDGSX5X
 
 ## Acrylic / Printed case
 There are plans in this repo for both a 3d printed, and laser cut acrylic case.  Depending on what case you want, and what you have on hand,
@@ -33,4 +33,4 @@ Quantity|Item|URL
 3|Rubber Feet|
 1|Pro Micro Compatible - Elite-C Recommended|
 1|Jack Enterprises - ADNS-9800 Laser Motion Sensor Breakout|https://www.tindie.com/products/jkicklighter/adns-9800-laser-motion-sensor/
-1|38mm Ball (1.5" Billiard Ball)|https://www.amazon.com/gp/product/B00CEQY0J0
+1|Ball either 38mm or 34mm|https://www.amazon.com/gp/product/B00CEQY0J0 https://www.amazon.com/gp/product/B07BDGSX5X

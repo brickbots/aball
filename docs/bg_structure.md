@@ -14,7 +14,12 @@ To keep oriented during througout this guide, here is a photo of everything put 
 
 ### Print Frame
 
-You'll need to print the vertical_frame.stl file.  It lays flat on the bed and will not require any supports.  It's
+You'll need to print one of the vertical_frame files depending on your micro controller and ball size:
+* vertical_frame_rev3_38mm.stl - For 1.1mm thick MCUs (such as the Elite-C rev3 or clone pro-micros) and a 38mm ball.  This is what the prototype is based on and is pictured in the build guide.
+* vertical_frame_rev4_38mm.stl - For 1.6mm thick MCUs (such as the Elite-C rev4) and a 38mm ball
+* vertical_frame_rev4_38mm.stl - For 1.6mm thick MCUs (such as the Elite-C rev4) and a 34mm ball
+
+It lays flat on the bed and will not require any supports.  It's
 pretty small, so you might as well go 100% infill.  Depending on your print quality, you might need to drill out the
 holes to fit the screws through.  
 
