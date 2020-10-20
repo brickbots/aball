@@ -1,4 +1,4 @@
-# Build Guide - Electronics
+# Buile Guide - Electronics
 
 * [Getting Started](../docs/bg_getting_started.md)
 * Electronics
@@ -24,6 +24,16 @@ I suggest connecting your MCU and flashing it with the firmware before you start
 
 Any pro-micro compatible will work, in this build I'm using an Elite-C as it has a nice robust USB-C connector.  If you do choose something else, you'll need to work out some way to reset the unit. The Elite-C has an onboard reset button and the cases here
 have access holes in the proper place to get at it with the case on.  The opening around the plug may also need adjusting, but it should work with many Micro-USB cables if that is what you decide to use.
+
+### Sensor Voltage
+
+If you are using a pro-micro or compatible, it's probably running at 5v.  By default, the sensor
+unit is setup to run at 3.3v.  Here is an image, and the description from the vendors website:
+
+![Voltage Selection](https://cdn.tindiemedia.com/images/resize/Pg_zRqNuYZxhaUakTaminbkk0RI=/p/fit-in/1032x688/filters:fill(fff)/i/3333/products/2016-05-29T15%3A13%3A26.485Z-5VConv.jpg "Voltage selection")
+
+If you are using Arduino or another similar microcontroller that has a native 5V core voltage, you'll need to activate 5V mode by cutting the tiny traces between the three sets of exposed pads on the 3.3V side of the board and adding three solder bridges to the exposed pads on the 5V side of the board. I recommend an exacto knife. Please be careful not to cut any other nearby traces. Both sets of pads can be found on the backside of the circuit board. This is the most common issue that causes non-communication.
+
 
 ### Wiring
 
