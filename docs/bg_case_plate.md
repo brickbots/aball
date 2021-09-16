@@ -28,6 +28,10 @@ thickness works great, but you can go a bit thicker/thinner and everything shoul
 You'll need m2 standoffs and screws.  The middle layer must be put in plate BEFORE the bearings!  It's 
 also much easier to install the lens before the middle layer is installed.
 
+*NOTE:* Don't forget to use insulating tape on the Elite-C along the top 
+and on the bottom plate to prevent shorting!
+
+
 There ya go! Drop in the ball and plug it in.  Feel free to 
 contact me with any questions on building, flashing or aquiring parts.  If you do build on of these
 I'd love to see it.
