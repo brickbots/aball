@@ -5,6 +5,7 @@
 * [Structural Assembly](../docs/bg_structure.md)
 * [Acrylic Case](../docs/bg_case_acrylic.md)
 * Printed Case
+* [Plate Case](../docs/bg_case_plate.md)
 * [Parts list (BOM)](../docs/bom.md)
 
 

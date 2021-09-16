@@ -6,6 +6,7 @@
 * [Structural Assembly](../docs/bg_structure.md)
 * [Acrylic Case](../docs/bg_case_acrylic.md)
 * [Printed Case](../docs/bg_case_printed.md)
+* [Plate Case](../docs/bg_case_plate.md)
 * [Parts list (BOM)](../docs/bom.md)
 
 To keep oriented during througout this guide, here is a photo of everything put together without the case.
