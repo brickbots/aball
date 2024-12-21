@@ -13,7 +13,7 @@ Quantity|Item|URL
 5|M2 nuts |
 3|Rubber Feet|
 1|Pro Micro Compatible - Elite-C Recommended|
-1|Jack Enterprises - ADNS-9800 Laser Motion Sensor Breakout|https://www.tindie.com/products/jkicklighter/adns-9800-laser-motion-sensor/
+1|ADNS-9800 Laser Motion Sensor Breakout|https://www.tindie.com/products/citizenjoe/adns-9800-motion-sensor/
 1|Ball either 38mm or 34mm|https://www.amazon.com/gp/product/B00CEQY0J0 https://www.amazon.com/gp/product/B07BDGSX5X
 
 ## Acrylic / Printed case
